@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+tr {
+    width: 100%;
+}
+
+.calculator {
+    width: 50%;
+    height: 80%;
+    box-shadow: 0px 0px 0px 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    height: 75%;
+    width: 100%;
+}
+.equal {
+    height: 80%;
+}
+
+#equal-button {
+    height: 80%;
+}
+
+.calculatorBox {
+    width: 50%;
+}

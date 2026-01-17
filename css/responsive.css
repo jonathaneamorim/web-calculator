@@ -1,0 +1,16 @@
+@media (max-width: 1100px) {
+    .calculator {
+        width: 40%;
+        height: 90%;
+    }
+    .calculatorBox {
+        width: 100vw !important;
+    }
+}
+
+@media (max-width: 700px) {
+    .calculator {
+        width: 70%;
+        height: 100%;
+    }
+}
